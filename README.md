@@ -8,4 +8,6 @@ El proceso de búsqueda es sensible al caso, pero convierte el texto de la búsq
 
 Esta aplicación utiliza PHP para procesar la búsqueda y HTML para mostrar la interfaz de usuario, ofreciendo una solución simple y eficiente para filtrar nombres en un conjunto predefinido.
 
-#### Yeray Almoguera Gonzalez
+---
+
+#### Creado por: Yeray Almoguera Gonzalez
